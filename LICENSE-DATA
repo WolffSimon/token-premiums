@@ -1,0 +1,15 @@
+Copyright (c) 2026 Matthew Wolff Simon
+
+The data in this repository (gpt_counts.json, hf_counts.json, premiums.json
+and premiums.csv), the text of README.md and the chart in figures/ are
+licensed under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0).
+
+You may share and adapt this material for any purpose, including commercial
+purposes, provided you give appropriate credit, provide a link to the licence
+and indicate if changes were made.
+
+Suggested credit: Matthew Wolff Simon, mAIself, "Token cost by language on
+five tokenizers", October 2026.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode

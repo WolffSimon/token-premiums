@@ -1,0 +1,128 @@
+{
+ "gemma3": {
+  "eng": {
+   "tokens": 2404,
+   "roundtrip": true
+  },
+  "arb": {
+   "tokens": 2982,
+   "roundtrip": true
+  },
+  "urd": {
+   "tokens": 3630,
+   "roundtrip": true
+  },
+  "hin": {
+   "tokens": 3205,
+   "roundtrip": true
+  },
+  "nep": {
+   "tokens": 2839,
+   "roundtrip": true
+  },
+  "ben": {
+   "tokens": 2714,
+   "roundtrip": true
+  },
+  "tam": {
+   "tokens": 4239,
+   "roundtrip": true
+  },
+  "mal": {
+   "tokens": 3721,
+   "roundtrip": true
+  },
+  "tgl": {
+   "tokens": 4541,
+   "roundtrip": true
+  },
+  "kat": {
+   "tokens": 5000,
+   "roundtrip": true
+  }
+ },
+ "qwen3": {
+  "eng": {
+   "tokens": 2228,
+   "roundtrip": true
+  },
+  "arb": {
+   "tokens": 2944,
+   "roundtrip": true
+  },
+  "urd": {
+   "tokens": 7008,
+   "roundtrip": true
+  },
+  "hin": {
+   "tokens": 10875,
+   "roundtrip": true
+  },
+  "nep": {
+   "tokens": 8905,
+   "roundtrip": true
+  },
+  "ben": {
+   "tokens": 10551,
+   "roundtrip": true
+  },
+  "tam": {
+   "tokens": 15395,
+   "roundtrip": true
+  },
+  "mal": {
+   "tokens": 14367,
+   "roundtrip": true
+  },
+  "tgl": {
+   "tokens": 4932,
+   "roundtrip": true
+  },
+  "kat": {
+   "tokens": 12030,
+   "roundtrip": true
+  }
+ },
+ "llama3": {
+  "eng": {
+   "tokens": 2207,
+   "roundtrip": true
+  },
+  "arb": {
+   "tokens": 3060,
+   "roundtrip": true
+  },
+  "urd": {
+   "tokens": 6371,
+   "roundtrip": true
+  },
+  "hin": {
+   "tokens": 6128,
+   "roundtrip": true
+  },
+  "nep": {
+   "tokens": 4941,
+   "roundtrip": true
+  },
+  "ben": {
+   "tokens": 11954,
+   "roundtrip": true
+  },
+  "tam": {
+   "tokens": 19461,
+   "roundtrip": true
+  },
+  "mal": {
+   "tokens": 17240,
+   "roundtrip": true
+  },
+  "tgl": {
+   "tokens": 4863,
+   "roundtrip": true
+  },
+  "kat": {
+   "tokens": 22178,
+   "roundtrip": true
+  }
+ }
+}

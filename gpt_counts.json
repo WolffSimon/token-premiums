@@ -1,0 +1,86 @@
+{
+ "o200k": {
+  "eng": {
+   "tokens": 2209,
+   "roundtrip": true
+  },
+  "arb": {
+   "tokens": 2544,
+   "roundtrip": true
+  },
+  "urd": {
+   "tokens": 3604,
+   "roundtrip": true
+  },
+  "hin": {
+   "tokens": 3481,
+   "roundtrip": true
+  },
+  "nep": {
+   "tokens": 2867,
+   "roundtrip": true
+  },
+  "ben": {
+   "tokens": 3541,
+   "roundtrip": true
+  },
+  "tam": {
+   "tokens": 5182,
+   "roundtrip": true
+  },
+  "mal": {
+   "tokens": 3824,
+   "roundtrip": true
+  },
+  "tgl": {
+   "tokens": 3927,
+   "roundtrip": true
+  },
+  "kat": {
+   "tokens": 3650,
+   "roundtrip": true
+  }
+ },
+ "cl100k": {
+  "eng": {
+   "tokens": 2207,
+   "roundtrip": true
+  },
+  "arb": {
+   "tokens": 5494,
+   "roundtrip": true
+  },
+  "urd": {
+   "tokens": 9288,
+   "roundtrip": true
+  },
+  "hin": {
+   "tokens": 11501,
+   "roundtrip": true
+  },
+  "nep": {
+   "tokens": 9393,
+   "roundtrip": true
+  },
+  "ben": {
+   "tokens": 12072,
+   "roundtrip": true
+  },
+  "tam": {
+   "tokens": 19461,
+   "roundtrip": true
+  },
+  "mal": {
+   "tokens": 17414,
+   "roundtrip": true
+  },
+  "tgl": {
+   "tokens": 4908,
+   "roundtrip": true
+  },
+  "kat": {
+   "tokens": 22178,
+   "roundtrip": true
+  }
+ }
+}
